@@ -1,6 +1,8 @@
 Project Title: ElderCare Connect - Voice AI Healthcare Assistance
 Overview
-ElderCare Connect is an interactive voice-activated healthcare system aimed at providing healthcare assistance to elderly and visually impaired individuals in minority communities. This project addresses the barriers these individuals face in accessing telehealth services by offering an AI-driven voice interface that allows users to get instant answers to healthcare-related questions over a phone call.
+For the ElderCareConnect, users can call 855-785-3838 to interact with the AI voice system, which provides health-related assistance, reminders, and answers to general or specific healthcare questions. This dedicated phone line ensures easy access for elderly users, particularly those with limited digital literacy, offering a seamless experience for managing daily health tasks and getting medical information over the phone.
+
+By incorporating this phone number, the app makes health support more accessible to users who may not be comfortable using mobile or digital applications.
 
 This system provides culturally sensitive, multilingual responses on topics such as chronic disease management, medication adherence, and general health tips, helping users with limited digital literacy or visual impairments.
 
